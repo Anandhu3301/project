@@ -1,0 +1,134 @@
+body{
+  background-image: url("images/bloodcarereal.jpg");
+  background-size:cover;
+  position: relative;
+  background-repeat: no-repeat;
+  z-index: 1;
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+  .tb
+  {
+       
+        width: 100%;
+        margin-bottom: 100px;
+  
+      
+  }
+  .lb {
+    position: fixed;
+    top: 10%;
+    left: 0%;
+    
+    
+  }
+  .sb {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+  
+    
+  }
+  .tl 
+  {
+    /* position: fixed;
+    top: 0%;
+    left: 0%;
+     */
+      width: 100px;
+     
+       
+        top: 30%;
+        position: absolute;
+  }
+  .ll{ 
+   
+    top: 10%;
+    left: 49%;
+  
+    
+  }
+  .tt
+  {
+        /* height: 10cm;
+        width:10cm;
+        left: 40%;
+        top: 30%;
+        position: absolute;
+        padding-bottom: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around; */
+        
+  }
+  .tf
+  {
+       
+        /* width:15cm;
+        left: 35%;
+        margin-top: 50px;
+       
+        padding-top: 50px;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 20px;
+        align-items: center;
+        justify-content: space-around;
+        background: rgba( 255, 255, 255, 0.25 );
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 4px );
+        -webkit-backdrop-filter: blur( 4px );
+        border-radius: 10px;
+        border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+  }
+  
+  .id{
+    position: fixed;
+    right: 30px;
+    bottom: 40px;
+  }
+  
+.form{
+  width: 220px;
+}
+h2{
+  
+}
+.textfield{
+  background-color: rgb(255, 255, 255);
+}
+.typo{
+  color: rgb(103, 159, 186);
+}
+.App{
+        height: 10cm;
+        width:10cm;
+        left: 40%;
+        top: 30%;
+        position: absolute;
+       
+       
+}
+.card{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.nog{
+  color: red;
+}

@@ -1,0 +1,27 @@
+
+.tb{
+     
+    box-shadow: 4px 3px 20px rgba(223, 9, 9, 0.2);
+    background-image: url(C:\Users\Asus\Desktop\FSD_Project-master\FSD_Project-master\src\components\images\front-view.jpg);
+   padding: 10px ;
+    border-radius: 10px;
+    
+   
+}
+
+
+#outlined-basic{
+    width: 300px;
+ height: 15px;
+}
+#Ailment{
+    width: 300px;
+    height: 15px;
+}
+#units{
+    width: 300px;
+    height: 15px;
+}
+.form{
+   transform: translate(-55px,0px);
+}
